@@ -2,6 +2,14 @@
   "notes": [
     {
       "title": "Bug fixes",
+      "version": "0.0.4",
+      "date": "2021-12-13T21:00:18.175Z",
+      "changes": [
+        { "title": "General", "items": ["Added guild shuffle", "Added cooldown to attack button", "Generating targets will first fetch 40"] }
+      ]
+    },
+    {
+      "title": "Bug fixes",
       "version": "0.0.3",
       "date": "2021-12-09T21:00:18.175Z",
       "changes": [
