@@ -2,6 +2,23 @@
   "notes": [
     {
       "title": "Bug fixes",
+      "version": "0.0.7",
+      "date": "2022-01-19T21:00:18.175Z",
+      "changes": [
+        { "title": "General", "items": 
+          [
+            "Guild lists are now ordered",
+            "Added way to change order type in Settings",
+            "Added account's API key into Settings",
+            "Added option to skip guild at target generation",
+            "Preparation for custom list of guilds"
+          ] 
+        },
+        { "title": "Bugs", "items": ["Potentially fixed main API key bug"] }
+      ]
+    },
+    {
+      "title": "Bug fixes",
       "version": "0.0.6",
       "date": "2021-12-15T21:00:18.175Z",
       "changes": [
