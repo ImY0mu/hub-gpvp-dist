@@ -2,6 +2,21 @@
   "notes": [
     {
       "title": "Update to backend",
+      "version": "0.0.9",
+      "date": "2022-04-029T10:00:18.175Z",
+      "changes": [
+        { "title": "General", "items": 
+          [
+            "Reworded description of keys in settings",
+            "Account key is now set automatically if missing and is editable",
+            "Added option to manually update guild ID",
+            "Added option to change order of targets"
+          ] 
+        }
+      ]
+    },
+    {
+      "title": "Update to backend",
       "version": "0.0.8",
       "date": "2022-03-07T10:00:18.175Z",
       "changes": [
