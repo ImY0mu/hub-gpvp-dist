@@ -1,16 +1,16 @@
 {
   "notes": [
     {
-      "title": "Update to backend",
+      "title": "Big",
       "version": "0.0.9",
-      "date": "2022-04-029T10:00:18.175Z",
+      "date": "2022-10-20T10:00:18.175Z",
       "changes": [
         { "title": "General", "items": 
           [
-            "Reworded description of keys in settings",
-            "Account key is now set automatically if missing and is editable",
-            "Added option to manually update guild ID",
-            "Added option to change order of targets"
+            "New and fresh GPvP Tool",
+            "Not implemented yet: import/export banned players",
+            "Added option to hide guilds",
+            "Added support for next target keybind of Mobile Simulation"
           ] 
         }
       ]
