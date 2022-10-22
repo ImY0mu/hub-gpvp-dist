@@ -1,6 +1,18 @@
 {
   "notes": [
     {
+      "title": "Update",
+      "version": "0.0.10",
+      "date": "2022-10-22T12:00:18.175Z",
+      "changes": [
+        { "title": "Bugs", "items": 
+          [
+            "Fixed bug with old guild wars"
+          ] 
+        }
+      ]
+    },
+    {
       "title": "Big",
       "version": "0.0.9",
       "date": "2022-10-21T10:00:18.175Z",
