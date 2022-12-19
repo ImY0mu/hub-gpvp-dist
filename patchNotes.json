@@ -2,6 +2,19 @@
   "notes": [
     {
       "title": "Update",
+      "version": "0.0.13",
+      "date": "2022-12-19T12:10:18.175Z",
+      "changes": [
+        { "title": "General", "items":  
+          [
+            "Inactive player filter now takes into account the minimum and maximum level range",
+            "Added guild at and guilds left counter to combat page"
+          ] 
+        }
+      ]
+    },
+    {
+      "title": "Update",
       "version": "0.0.12",
       "date": "2022-12-19T12:00:18.175Z",
       "changes": [
