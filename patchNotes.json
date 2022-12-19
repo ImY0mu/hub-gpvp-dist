@@ -2,6 +2,24 @@
   "notes": [
     {
       "title": "Update",
+      "version": "0.0.12",
+      "date": "2022-12-19T12:00:18.175Z",
+      "changes": [
+        { "title": "General", "items":  
+          [
+            "Improved the way zero targets on first entered combat are handled",
+            "Added top panel alert when user is rate limited",
+            "Added alert when no targets were found",
+            "Added support for new Mobile Simulation keybinds",
+            "Added list of killed players and their count for the current session",
+            "Added way to mark user as reached the kill limits (3 kills are the limit)",
+            "Players over the kill count are filtered out from the target list"
+          ] 
+        }
+      ]
+    },
+    {
+      "title": "Update",
       "version": "0.0.11",
       "date": "2022-12-08T12:00:18.175Z",
       "changes": [
