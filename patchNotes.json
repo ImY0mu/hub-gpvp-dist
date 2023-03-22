@@ -2,6 +2,18 @@
   "notes": [
     {
       "title": "Update",
+      "version": "0.0.15",
+      "date": "2023-03-22T12:00:18.175Z",
+      "changes": [
+        { "title": "General", "items":  
+          [
+            "Changed request method back to POST"
+          ] 
+        }
+      ]
+    },
+    {
+      "title": "Update",
       "version": "0.0.14",
       "date": "2023-03-21T12:00:18.175Z",
       "changes": [
